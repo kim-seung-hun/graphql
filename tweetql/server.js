@@ -1,5 +1,7 @@
 import { ApolloServer, gql } from "apollo-server";
 
+// graphql study
+
 let tweets = [
   {
     id: "1",
