@@ -18,6 +18,7 @@ let tweets = [
 let user = [
   {
     id: "1",
+    setReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelViewsetReservePannelView,
     firstName: "김",
     lastName: "승훈",
   },
